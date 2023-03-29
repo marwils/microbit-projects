@@ -8,6 +8,12 @@ visit https://python.microbit.org/ and run the code in the web emulator.
 ## Projects
 A short description of the projects.
 
+### baby_toy
+A very simple project where only the default images and songs were accessed. This could also be a nice showcase for many of the built-in stuff. And yes, my 1,5 y/o daughter loves it. :D
+
+- Button A: Show next image
+- Button B: Play next song
+
 ### find_me_by_brightness
 You are a spot on the 5x5 LED matrix and have to find a hidden target position. The brightness of the spot increases as you get closer to the target.
 
