@@ -9,8 +9,7 @@ visit https://python.microbit.org/ and run the code in the web emulator.
 A short description of the projects.
 
 ### find_me_by_brightness
-You are a spot on the 5x5 LED matrix and have to find a hidden target position. The brightness of
-the spot increases as you get closer to the target.
+You are a spot on the 5x5 LED matrix and have to find a hidden target position. The brightness of the spot increases as you get closer to the target.
 
 **Controls:**
 - Button A: Move spot by one step
@@ -24,3 +23,9 @@ Move a spot to the left or to the right to play a song.
 **Controls:**
 - Button A: Move left
 - Button B: Move right
+
+### spirit_level
+A smooth visualization of the accelerometer's x and y position in form of a spot on the LED matrix. Nearby LEDs will also be affected when a given distance from the center of mass is exceeded.
+
+**Controls:**
+- Tilt: Move spot around
