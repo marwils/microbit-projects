@@ -29,3 +29,5 @@ A smooth visualization of the accelerometer's x and y position in form of a spot
 
 **Controls:**
 - Tilt: Move spot around
+- Button A (hold): Decrease the maximal distance to nearby LED
+- Button B (hold): Inrease the maximal distance to nearby LED
