@@ -17,3 +17,10 @@ the spot increases as you get closer to the target.
 - Button B: Turn spot right
 
 This is my very first micro:bit project.
+
+### play_a_song
+Move a spot to the left or to the right to play a song.
+
+**Controls:**
+- Button A: Move left
+- Button B: Move right
