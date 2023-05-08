@@ -23,6 +23,13 @@ You are a spot on the 5x5 LED matrix and have to find a hidden target position. 
 
 This is my very first micro:bit project.
 
+### nicer_dicer
+A dicing simulation that rolls a dice while the device is shaking. While rolling some random sounds are played. After that it changes it's eyes until it stops.
+
+**Controls:**
+- Shake: Roll dice
+- Keep shaking: Accelerate dice
+
 ### play_a_song
 Move a spot to the left or to the right to play a song.
 
