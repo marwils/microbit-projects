@@ -1,7 +1,5 @@
 from microbit import *
 import music
-import audio
-import audio as Sound
 import random
 import math
 
