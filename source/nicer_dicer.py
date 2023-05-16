@@ -46,11 +46,7 @@ def dice():
     while (velocity < 400):
         sleep(velocity)
 
-        while (last_note == note):
-            note = notes[random.randint(0, len(notes)-1)]
-        last_note = note
-
-        music.play(note, wait=False)
+        music.pitch(random.randint(220, 275))
 
         while (last_number == number):
             number = random.randint(1, 6)
